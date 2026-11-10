@@ -15,7 +15,3 @@ pipx install git+https://github.com/gevarru/AttackSurfaceX.git
 ## What I work with
 
 `Python` `asyncio` `security` `devsecops` `reconnaissance` `plugin architecture`
-
-## Links
-
-- 🌐 [gevar.online](https://gevar.online)
